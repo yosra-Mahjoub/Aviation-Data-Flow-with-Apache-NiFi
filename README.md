@@ -6,7 +6,7 @@ This project demonstrates the power of Apache NiFi in managing the data flow ess
 
 Apache NiFi serves as the backbone of this data flow, providing the infrastructure to seamlessly integrate, transform, and route data from diverse sources to various destinations. With its intuitive graphical interface and extensive library of processors, NiFi simplifies the creation of complex data pipelines, allowing aviation professionals to focus on insights and actions rather than the intricacies of data management.
 
-For more details read [Why data flow is the fuel for aviation operations]([https://aviationstack.com/](https://www.linkedin.com/pulse/why-data-flow-fuel-aviation-operations-zivan-gvozdenovic-ssm/)) 
+For more details read [Why data flow is the fuel for aviation operations](https://www.linkedin.com/pulse/why-data-flow-fuel-aviation-operations-zivan-gvozdenovic-ssm/)
 
 
 > ## Features
