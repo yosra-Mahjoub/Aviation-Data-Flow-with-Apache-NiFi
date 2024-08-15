@@ -17,6 +17,10 @@ For more details read [Why data flow is the fuel for aviation operations](https:
 
 - **Data Storage**: Processed data is stored in MongoDB for persistence. MongoDB offers flexibility and scalability, making it suitable for storing unstructured or semi-structured data like JSON documents. Furthermore, the JSON data is converted into SQL format for insertion into a MySQL table..
 
+- **Data Visualization**:
+    *| Flight Status Overview :
+ ![image](https://github.com/user-attachments/assets/c1d153b1-19de-4212-95cd-81cc743a6012)
+
 
 ## Getting Started
 
